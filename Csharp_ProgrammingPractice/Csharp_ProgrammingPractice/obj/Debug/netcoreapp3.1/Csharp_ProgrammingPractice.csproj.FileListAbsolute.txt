@@ -1,0 +1,13 @@
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/bin/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.deps.json
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/bin/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.runtimeconfig.json
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/bin/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.runtimeconfig.dev.json
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/bin/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.dll
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/bin/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.pdb
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.csproj.AssemblyReference.cache
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.AssemblyInfoInputs.cache
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.AssemblyInfo.cs
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.csproj.CoreCompileInputs.cache
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.dll
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.pdb
+/Users/lbq/Projects/Csharp_ProgrammingPractice/Csharp_ProgrammingPractice/obj/Debug/netcoreapp3.1/Csharp_ProgrammingPractice.genruntimeconfig.cache
