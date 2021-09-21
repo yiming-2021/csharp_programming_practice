@@ -7,7 +7,8 @@ namespace Csharp_ProgrammingPractice
     class Program
     {
 
-        // problem 1
+        // problem 1: Find the factorial of a number
+
         public int FindFactorial(int a)
         {
             int r = a;
@@ -20,7 +21,7 @@ namespace Csharp_ProgrammingPractice
         }
 
 
-        // problem 2
+        // problem 2: if a number is prime or not
         public bool PrimeOrNot(int a)
         {
             bool r = true;
@@ -34,7 +35,7 @@ namespace Csharp_ProgrammingPractice
             return r;
         }
 
-        // problem 3
+        // problem 3: if a year is leap or not
         public bool LeapYear(int y)
         {
             if (y % 4 == 0)
@@ -47,7 +48,7 @@ namespace Csharp_ProgrammingPractice
             }
         }
 
-        // problem 4
+        // problem 4: LCM of two number
         public int LCM(int a, int b)
         {
             int num1, num2;
